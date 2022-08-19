@@ -1,0 +1,43 @@
+body{
+    background-color: #252954;
+}
+
+form{
+    max-width: 500px;
+    background-color: #141834;
+}
+
+h1{
+    color: #9B9CA7;
+}
+
+.link{
+    color: #9B9CA7;
+}
+
+a{
+    color: #9B9CA7;
+}
+
+a:hover{
+    color: #848488;
+}
+
+.btn-custom{
+    color: white;
+    background-color: #353b76;
+    border-color: #464c8f;
+}
+
+.btn-custom:hover{
+    background-color: #2f3569;
+    color: white;
+}
+
+.gap__profile{
+    gap: 30px;
+}
+
+.w-profile-info{
+    width: 200px;
+}
